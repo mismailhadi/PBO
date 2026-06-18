@@ -398,7 +398,6 @@ public class FormNilaiMhs extends javax.swing.JFrame {
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(this, "Gagal Simpan: " + ex.getMessage());
         }
-    }
     }//GEN-LAST:event_simpanActionPerformed
 
     private void tabelMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tabelMouseClicked
